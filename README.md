@@ -4,6 +4,8 @@ This repository will show the opensource heartbeat interface for Stanford
 University. Users are found with a query for location as Stanford, along
 with from a custom list of known organizations.
 
+![img/heartbeat.png](img/heartbeat.png)
+
 ## How do I add myself to the repository?
 
 If you can't be found via the query, then you can add your username to the
@@ -17,4 +19,4 @@ to request complete removal.
 
 ## How do I generate this for my group/user base?
 
-The GitHub Action we use is [rseng/opensource-heartbeat-action](https://rseng/opensource-heartbeat-action).
+The GitHub Action we use is [rseng/opensource-heartbeat-action](https://github.com/rseng/opensource-heartbeat-action).

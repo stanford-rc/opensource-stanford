@@ -1,6 +1,9 @@
 name: opensource-heartbeat
 
 on:
+  push:
+    branches:
+     - master
   # nightly at 2:30am
   schedule:   
     - cron: 30 2 * * *
@@ -13,7 +16,7 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v2
       - name: Open Source Heartbeat Action      
-        uses: rseng/opensource-heartbeat-action@v1.0.0
+        uses: rseng/opensource-heartbeat-action@v1.0.2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:        

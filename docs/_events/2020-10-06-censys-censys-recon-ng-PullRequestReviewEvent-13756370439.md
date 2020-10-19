@@ -10,6 +10,6 @@ repo_url: https://github.com/censys/censys-recon-ng
 
 <a href='https://github.com/zakird' target='_blank'>zakird</a> <a href='https://github.com/censys/censys-recon-ng/pull/2#pullrequestreview-503305518' target='_blank'>reviewed</a> a <a href='https://github.com/censys/censys-recon-ng/pull/2' target='_blank'>censys/censys-recon-ng pull request</a>
 
-<small>...</small>
+<small></small>
 
 <a href='https://github.com/censys/censys-recon-ng/pull/2#pullrequestreview-503305518' target='_blank'>View Review</a>
